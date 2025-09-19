@@ -133,6 +133,7 @@ body {
     box-sizing: border-box;
     flex-shrink: 0;
     white-space: nowrap;
+    margin-top: 1rem;
 }
 
 .link-item:hover {
